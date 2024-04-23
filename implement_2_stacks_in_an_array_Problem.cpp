@@ -121,7 +121,8 @@ int main(){
     st.pop2();
     st.pop2();
     st.pop2();
-    st.print();
+    // st.print();
+    //here i am doing changes 
     st.pop2();
 
     return 0;
