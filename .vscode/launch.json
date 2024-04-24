@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/akash/Desktop/dsa/Stack",
-      "program": "c:/Users/akash/Desktop/dsa/Stack/build/Debug/outDebug",
+      "cwd": "c:/Users/akash/Desktop/git_backup/STACK",
+      "program": "c:/Users/akash/Desktop/git_backup/STACK/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
